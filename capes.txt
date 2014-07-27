@@ -1,0 +1,19 @@
+{
+    "Devs": {
+        "capeUrl": "http://i.imgur.com/kjBPAbd.png",
+        "users": [
+            "BlockeyCreeper",
+            "legominernoah",
+            "ForgeDevName"
+        ]
+    },
+    "Contributors": {
+        "capeUrl": "http://i.imgur.com/Q8UbCuY.png",
+        "users": [
+            "hearthus",
+            "KingEnderman",
+            "Cloudface_MC",
+            "ablazenicky"
+        ]
+    },
+}
