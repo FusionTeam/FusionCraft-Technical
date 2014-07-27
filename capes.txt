@@ -16,4 +16,10 @@
             "ablazenicky"
         ]
     },
+    "BetaTesters": {
+        "capeUrl": "http://i.imgur.com/1SsIsGA.png",
+        "users": [
+            "rawry1000"
+        ]
+    },
 }
