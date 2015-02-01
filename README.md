@@ -1,6 +1,8 @@
 FusionCraft-Technical
 =====================
 
+NO LONGER BEING DEVELOPED. Go check out new things here: https://github.com/Titanium-Studios
+
 Mod for Minecraft about stuff.
 
 To sum it up in 2 sentences:
